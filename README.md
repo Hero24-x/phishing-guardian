@@ -69,6 +69,7 @@ python api/server.py
 # 4. Test with a sample email
 curl -X POST -F "file=@tests/sample_email.eml" http://127.0.0.1:5000/analyze
 ---
+```text
 📂 Folder Structure
 phish-guardian/
 ├─ ingest/          # Email ingestion
@@ -80,6 +81,7 @@ phish-guardian/
 ├─ ui/              # Simple SOC dashboard
 ├─ intel/           # Local threat feed cache
 └─ tests/           # Unit tests + samples
+```
 ---
 
 ⚖️ Safety & Privacy Notes🔹
