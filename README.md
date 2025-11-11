@@ -51,7 +51,7 @@ No static rules, no guesswork — this firewall for your inbox *learns, adapts, 
  └───────────────────────┘
           ↓
  [ Analyst Dashboard / SIEM ]
----
+```
 
 ## 🚀 Quick Start
 # 1. Clone repository
@@ -99,4 +99,9 @@ Released under the MIT License — free for learning, research, and SOC integrat
 💬 Author’s Note
 Phishing-Guardian isn’t just a filter — it’s a sentinel that listens, learns, and protects.
 Built for defenders who believe prevention beats reaction 🧩
+---
+📛 Author / Maintainer
+
+Shibnath Hansda 
+GitHub: @Hero24-x 
 ---
