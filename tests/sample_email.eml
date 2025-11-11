@@ -1,0 +1,33 @@
+From: "Bank Support" <support@bank-example.com>
+To: victim@example.com
+Subject: Urgent: Verify your account now
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="SEP"
+
+
+--SEP
+Content-Type: text/plain; charset="utf-8"
+
+
+Dear user,
+
+
+Please verify your account immediately: http://bank-example.com.security-check.verify-user.info/login
+
+
+Regards,
+Bank Support
+
+
+--SEP
+Content-Type: text/html; charset="utf-8"
+
+
+<html><body>
+<p>Dear user,</p>
+<p>Please verify your account immediately: <a href="http://bank-example.com.security-check.verify-user.info/login">Verify</a></p>
+<p>Regards,<br/>Bank Support</p>
+</body></html>
+
+
+--SEP--
