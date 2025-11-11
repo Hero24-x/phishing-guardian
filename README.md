@@ -31,7 +31,7 @@ No static rules, no guesswork — this firewall for your inbox *learns, adapts, 
 ---
 
 ## ⚙️ Architecture
-
+```text
 [ Email / API Input ]
           ↓
  ┌───────────────────────┐
